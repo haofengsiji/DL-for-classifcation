@@ -1,5 +1,7 @@
 # Hello pytorch
 
+pytorch: 1.9.1
+
 分类pytorch流程入门：
 
 https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html#further-learning
