@@ -1,2 +1,7 @@
 data/*
 !data/readme.md
+*.pdf
+*.pth
+*.pb
+variables
+assets
