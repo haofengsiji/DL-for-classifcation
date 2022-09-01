@@ -1,5 +1,7 @@
 data/*
 !data/readme.md
+!data/bee.jpg
+!data/class_indices.json
 *.pdf
 *.pth
 *.pb
